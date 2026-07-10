@@ -1,5 +1,6 @@
 # telefonsqllite
-Übungsrepo 
+
+Übungsrepo
 
 uv installieren: https://docs.astral.sh/uv/getting-started/installation/
 
@@ -11,7 +12,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 
 Terminal öffnen, dann:
 
-git clone <repo-url>
-cd <projektordner>
+`git clone repo-url
+cd projektordner
 uv sync
-uv run main.py
+uv run main.py`
