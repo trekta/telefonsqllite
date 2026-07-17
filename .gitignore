@@ -1,1 +1,3 @@
-bank.db
+.venv
+*.db
+.env
